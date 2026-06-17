@@ -1,0 +1,82 @@
+/* Marimekko Brand Fonts */
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Marimekko Sans/MarimekkoSans-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Marimekko Sans/MarimekkoSans-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Marimekko Sans/MarimekkoSans-Book.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Marimekko Sans/MarimekkoSans-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Marimekko Sans/MarimekkoSans-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: block;
+}
+
+/* MariSlab */
+@font-face {
+  font-family: 'MariSlab';
+  src: url('/fonts/Desktop/MariSlab-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSlab';
+  src: url('/fonts/Desktop/MariSlab-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSlab';
+  src: url('/fonts/Desktop/MariSlab-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+
+/* MariSans Desktop (legacy name) */
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Desktop/MariSans-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Desktop/MariSans-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'MariSans';
+  src: url('/fonts/Desktop/MariSans-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
